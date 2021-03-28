@@ -153,7 +153,12 @@ public class SingleLoop {
 		// TODO Auto-generated method stub
 SingleLoop sngl = new SingleLoop();
 sngl.tablePrint(32);
-		
+sngl.checkArmstrong(153);
+sngl.palindromenumber(121);
+sngl.swapNumbersUT(2, 10);
+sngl.swapNumbersWUT(3, 10);
+sngl.factorialPrint(12);
+		System.out.println("changes done in file");
 	}
 
 }
